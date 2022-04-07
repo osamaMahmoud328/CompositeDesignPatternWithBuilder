@@ -1,0 +1,15 @@
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.exe
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.deps.json
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.runtimeconfig.json
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.dll
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\net6.0\CompositeDesignPattern.pdb
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.csproj.AssemblyReference.cache
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.AssemblyInfoInputs.cache
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.AssemblyInfo.cs
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.dll
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\refint\CompositeDesignPattern.dll
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.pdb
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\CompositeDesignPattern.genruntimeconfig.cache
+E:\Learning\Patterns\Composite\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\net6.0\ref\CompositeDesignPattern.dll
