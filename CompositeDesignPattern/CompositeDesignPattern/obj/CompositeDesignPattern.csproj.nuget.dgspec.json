@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning\\Patterns\\Composite\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj": {}
+    "E:\\Learning\\Repos\\CompositeDesignPatternWithBuilder\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj": {}
   },
   "projects": {
-    "E:\\Learning\\Patterns\\Composite\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj": {
+    "E:\\Learning\\Repos\\CompositeDesignPatternWithBuilder\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning\\Patterns\\Composite\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
+        "projectUniqueName": "E:\\Learning\\Repos\\CompositeDesignPatternWithBuilder\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
         "projectName": "CompositeDesignPattern",
-        "projectPath": "E:\\Learning\\Patterns\\Composite\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
+        "projectPath": "E:\\Learning\\Repos\\CompositeDesignPatternWithBuilder\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
         "packagesPath": "C:\\Users\\osama_mahmoud\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning\\Patterns\\Composite\\CompositeDesignPattern\\CompositeDesignPattern\\obj\\",
+        "outputPath": "E:\\Learning\\Repos\\CompositeDesignPatternWithBuilder\\CompositeDesignPattern\\CompositeDesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

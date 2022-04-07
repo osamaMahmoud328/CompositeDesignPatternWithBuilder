@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8iB50sUVrnE2+xmHVTcXdDvmbdf7w6XHE3+yTEtZ3YG7VIm9/+gPp8K3XlLpQkVndRZkqTckXFeBOppttsPkw==",
+  "dgSpecHash": "haFIoqZ9WNt/ADTnaxghIwurHQcDa7v/OWsFyPeUmfwOI7TlVZd91lgjfm4sXMCDeHDi6RA4XD/1m9471kgRzg==",
   "success": true,
-  "projectFilePath": "E:\\Learning\\Patterns\\Composite\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
+  "projectFilePath": "E:\\Learning\\Repos\\CompositeDesignPatternWithBuilder\\CompositeDesignPattern\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
