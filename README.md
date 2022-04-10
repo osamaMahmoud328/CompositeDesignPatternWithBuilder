@@ -1,6 +1,6 @@
 # CompositeDesignPatternWithBuilder
 
-Apply Composit eDesign Pattern With Builder Approach.
+Apply Composite Design Pattern With Builder Approach.
 
 # Project Structure:
 Two projects to clearify the idea:
